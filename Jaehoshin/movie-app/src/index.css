@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@import url('https://cdn.jsdelivr.net/gh/toss/tossface@1.0/dist/TossFace.css');
+
+body {
+  font-family: 'Pretendard', sans-serif;
+}
+
+@font-face {
+  font-family: 'Pretendard';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Regular.woff2') format('woff2');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Pretendard';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Bold.woff2') format('woff2');
+  font-weight: 700;
+}
